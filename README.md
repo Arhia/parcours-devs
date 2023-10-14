@@ -1,4 +1,4 @@
-# Parcours de formations nouveaux développeurs Arhia
+# Parcours de formation nouveaux développeurs Arhia
 
 Ce repository détaille les connaissances à maîtriser pour un développeur junior pour devenir un contributeur efficace chez Arhia.  
 
