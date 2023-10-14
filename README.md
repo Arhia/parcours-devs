@@ -6,6 +6,18 @@ Ce repository détaille les connaissances à maîtriser pour un développeur jun
 
 ### Javascript
 
+Le site de référence est https://javascript.info/
+
+Les parties à maitriser absolument dès le début :
+  - Javascript fundamentals
+  - Objects: the basics
+  - Data types
+  - Error handling
+
+Les parties plus difficiles à maitriser progressivement : 
+  - Advanced working with functions
+  - Promises, async/await
+
 ### HTML
 
 ### CSS
