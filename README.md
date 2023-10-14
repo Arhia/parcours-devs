@@ -2,7 +2,7 @@
 
 Ce repository détaille les connaissances à maîtriser pour un développeur junior pour devenir un contributeur efficace chez Arhia.  
 
-## Maitrise des langages
+## Langages
 
 ### Javascript
 
@@ -27,13 +27,13 @@ Les parties plus difficiles à maitriser progressivement :
 ### Typescript  
 
 
-## Maitrise de l'environnement NodeJS
+## Environnement NodeJS
 
-## Maitrise des librairies et framework frontend
+## Librairies et framework frontend
 
 ### React
 
-## Maitrise des librairies et framework backend
+## Librairies et framework backend
 
 ### Express
 
