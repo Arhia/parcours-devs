@@ -22,4 +22,18 @@ Les parties plus difficiles à maitriser progressivement :
 
 ### CSS
 
+### SQL
+
+## Maitrise de l'environnement NodeJS
+
+## Maitrise des librairies et framework frontend
+
+### React
+
+## Maitrise des librairies et framework backend
+
+### Express
+
+### GraphQL
+
 
